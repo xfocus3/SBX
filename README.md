@@ -1,2 +1,0 @@
-# SBX
-Created with CodeSandbox
